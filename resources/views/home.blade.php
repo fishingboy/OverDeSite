@@ -6,7 +6,7 @@
 <body>
 <div class="base">
     <div class="header"></div>
-    <div class="content"></div>
+    <div class="content">施工中</div>
     <div class="footer"></div>    
 </div>
 </body>
